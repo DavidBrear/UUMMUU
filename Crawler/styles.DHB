@@ -1,0 +1,106 @@
+<styles>
+	<text_style>
+		<text>nknk Lira is the link ranking algorithm for UUMMUU</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#000000</font-color>
+	</text_style>
+	<text_style>
+		<text>Li Ra</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>bold</font-weight>
+		<font-color>#000000</font-color>
+	</text_style>
+	<text_style>
+		<text>P is not red</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#000000</font-color>
+	</text_style>
+	<text_style>
+		<text>Welcome to UUMMUU Lira Lira stands for</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#000000</font-color>
+	</text_style>
+	<text_style>
+		<text></text>
+		<font-size>0</font-size>
+		<font-family></font-family>
+		<bgcolor></bgcolor>
+		<font-weight></font-weight>
+		<font-color></font-color>
+	</text_style>
+	<text_style>
+		<text>Page 1</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#0000ff</font-color>
+	</text_style>
+	<text_style>
+		<text>This is anothertag div tag</text>
+		<font-size>25.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#3e88ee</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#111111</font-color>
+	</text_style>
+	<text_style>
+		<text>Page 3</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#0000ff</font-color>
+	</text_style>
+	<text_style>
+		<text>Temp folder with index</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#0000ff</font-color>
+	</text_style>
+	<text_style>
+		<text>Green Background with Big Text</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#000000</font-color>
+	</text_style>
+	<text_style>
+		<text>Div is red</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#000000</font-color>
+	</text_style>
+	<text_style>
+		<text></text>
+		<font-size>0</font-size>
+		<font-family></font-family>
+		<bgcolor></bgcolor>
+		<font-weight></font-weight>
+		<font-color></font-color>
+	</text_style>
+	<text_style>
+		<text>Page 2</text>
+		<font-size>16.0</font-size>
+		<font-family>Arial</font-family>
+		<bgcolor>#ffffff</bgcolor>
+		<font-weight>normal</font-weight>
+		<font-color>#0000ff</font-color>
+	</text_style>
+</styles>

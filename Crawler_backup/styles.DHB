@@ -1,0 +1,26 @@
+<styles>
+	<text_style>
+		<text>Hello Worldds</text>
+		<font-size>16.0</font-size>
+		<font-family>Calibri</font-family>
+		<bgcolor>#f0f0f0</bgcolor>
+		<font-weight>bold</font-weight>
+		<font-color>#ffffff</font-color>
+	</text_style>
+	<text_style>
+		<text>Purple Noise</text>
+		<font-size>25.0</font-size>
+		<font-family>Calibri</font-family>
+		<bgcolor>#800080</bgcolor>
+		<font-weight>bold</font-weight>
+		<font-color>#ffffff</font-color>
+	</text_style>
+	<text_style>
+		<text>BOOOOOOP</text>
+		<font-size>16.0</font-size>
+		<font-family>Courier</font-family>
+		<bgcolor>#aabbcc</bgcolor>
+		<font-weight>bold</font-weight>
+		<font-color>#525252</font-color>
+	</text_style>
+</styles>

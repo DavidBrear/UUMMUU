@@ -1,0 +1,63 @@
+2009-09-19 16:49:54,921 - UUMMUU Crawler - INFO - Started parsing out new URLs
+2009-09-19 16:49:54,921 - UUMMUU Crawler - ERROR - Parsing date is not a valid date. Must be in format: yyyyMMdd
+2009-09-19 16:49:54,921 - UUMMUU Crawler - INFO - Running URL Assign on date: 20090919
+2009-09-19 16:49:54,921 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:49:54,921 - UUMMUU Crawler - ERROR - Error adding record to database. (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '2009-09-19 16:49:54.921000')' at line 1")
+2009-09-19 16:49:54,921 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:49:54,921 - UUMMUU Crawler - ERROR - Error adding record to database. (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '2009-09-19 16:49:54.921000')' at line 1")
+2009-09-19 16:49:54,921 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:49:54,921 - UUMMUU Crawler - ERROR - Error adding record to database. (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '2009-09-19 16:49:54.921000')' at line 1")
+2009-09-19 16:49:54,921 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:49:54,921 - UUMMUU Crawler - ERROR - Error adding record to database. (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' '2009-09-19 16:49:54.921000')' at line 1")
+2009-09-19 16:50:27,483 - UUMMUU Crawler - INFO - Started parsing out new URLs
+2009-09-19 16:50:27,483 - UUMMUU Crawler - ERROR - Parsing date is not a valid date. Must be in format: yyyyMMdd
+2009-09-19 16:50:27,483 - UUMMUU Crawler - INFO - Running URL Assign on date: 20090919
+2009-09-19 16:50:27,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:50:27,500 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:50:27,500 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:50:27,500 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:56:38,858 - UUMMUU Crawler - INFO - Started parsing out new URLs
+2009-09-19 16:56:38,858 - UUMMUU Crawler - ERROR - Parsing date is not a valid date. Must be in format: yyyyMMdd
+2009-09-19 16:56:38,858 - UUMMUU Crawler - INFO - Running URL Assign on date: 20090919
+2009-09-19 16:56:38,875 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:56:38,875 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:56:38,875 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 16:56:38,875 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - Started parsing out new URLs
+2009-09-19 17:00:40,937 - UUMMUU Crawler - ERROR - Parsing date is not a valid date. Must be in format: yyyyMMdd
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - Running URL Assign on date: 20090919
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,937 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page1.html' for key 2")
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,937 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page2.html' for key 2")
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,937 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page3.html' for key 2")
+2009-09-19 17:00:40,937 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:00:40,953 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/tmp/index.html' for key 2")
+2009-09-19 17:03:53,467 - UUMMUU Crawler - INFO - Started parsing out new URLs
+2009-09-19 17:03:53,467 - UUMMUU Crawler - ERROR - Parsing date is not a valid date. Must be in format: yyyyMMdd
+2009-09-19 17:03:53,467 - UUMMUU Crawler - INFO - Running URL Assign on date: 20090919
+2009-09-19 17:03:53,467 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,467 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page1.html' for key 2")
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page2.html' for key 2")
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page3.html' for key 2")
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/tmp/index.html' for key 2")
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page1.html' for key 2")
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page2.html' for key 2")
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/LiRa/page3.html' for key 2")
+2009-09-19 17:03:53,483 - UUMMUU Crawler - INFO - adding url to crawl list
+2009-09-19 17:03:53,483 - UUMMUU Crawler - ERROR - Error adding record to database. (1062, "Duplicate entry 'http://localhost:8080/tmp/index.html' for key 2")
